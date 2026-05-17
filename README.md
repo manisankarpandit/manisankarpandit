@@ -64,9 +64,7 @@
   <a href="https://leetcode.com/u/sankar_mani/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-sankar__mani-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-
   &nbsp;&nbsp;
-
   <a href="https://www.geeksforgeeks.org/profile/msankarxlyt" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Manisankar_Pandit-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
@@ -87,7 +85,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manisankarpandit&theme=radical" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisankarpandit&layout=compact&theme=radical&hide_border=true" height="160" />
   
